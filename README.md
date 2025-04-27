@@ -1,4 +1,4 @@
-Fraud Detection System
+###Fraud Detection System
 Overview
 This project aims to build an AI model for detecting fraudulent transactions in real-time while minimizing false positives. It utilizes machine learning models such as XGBoost, LightGBM, and LSTM to classify transactions as fraudulent or legitimate. The system focuses on high recall to detect most fraudulent transactions, with an emphasis on explainability.
 
